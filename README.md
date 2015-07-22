@@ -2,4 +2,6 @@
 
 vg1
 
-XNA project, 2012
+XNA + C# project, 2012
+
+College project | Videogames 1 class | UANL FCFM

@@ -4,6 +4,18 @@ XNA + C# project, 2012
 
 College project | Videogames 1 class | UANL FCFM
 
+Programmers/Artists
+
+-M. C. Perez-Ayala Cano
+
+-Brenda Joo Lara
+
+-Luis Carlos Garcia Cantu
+
+Composer
+
+-Erik Herrera
+
 ---------------------------------------------------------------------------------------------------------------------
 
 #How to play
